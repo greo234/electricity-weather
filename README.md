@@ -1,4 +1,3 @@
-# electricity-weather
-How Weather Conditions affect household consumption
-Climate and weather significantly affect household electricity consumption, particularly for heating and cooling needs. Understanding this relationship can help optimize energy usage, reduce costs, and improve energy policy decisions. Previous studies have shown that extreme temperatures lead to increased energy consumption, but comprehensive models integrating various weather variables are needed. This study will leverage data from meteorological agencies and London Smart Meter dataset to create a detailed analysis of how weather conditions impact household energy use.
-
+Impact of Weather Conditions on Household Electricity Consumption
+Overview
+This dissertation explores the impact of various weather conditions on household electricity consumption using machine learning techniques. The primary objective is to understand how different weather factors correlate with electricity usage and to develop a predictive model that can accurately forecast electricity consumption based on these weather conditions. The study employs a Gated Recurrent Unit (GRU) neural network to capture the sequential nature of the data.
