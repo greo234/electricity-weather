@@ -1,7 +1,23 @@
 # Impact of Weather Conditions on Household Electricity Consumption
 ## Overview
 
-This dissertation explores the impact of various weather conditions on household electricity consumption using The Gated Recurrent Unit (GRU). The primary objective is to understand how different weather factors correlate with electricity usage and to develop a predictive model that can accurately forecast electricity consumption based on these weather conditions. 
+This repository contains the code and models developed for my dissertation on the "Impact of Weather Conditions on Household Electricity Consumption." The project leverages a Gated Recurrent Unit (GRU) neural network to predict household electricity consumption based on various weather conditions, such as temperature, humidity, and wind speed.
+
+## Tools
+
+Ensure you have Python 3.x and the following packages installed:
+
+TensorFlow/Keras
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
 
 ## Data Collection and Preprocessing
 
